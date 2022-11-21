@@ -1,4 +1,4 @@
-package codingtest;
+package codingtest.IOandArithmeticOperations;
 
 public class T25093 { //새싹
     public static void main(String[] args) {

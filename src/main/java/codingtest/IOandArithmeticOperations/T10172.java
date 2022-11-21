@@ -1,4 +1,4 @@
-package codingtest;
+package codingtest.IOandArithmeticOperations;
 
 public class T10172 { //개
     public static void main(String[] args) {

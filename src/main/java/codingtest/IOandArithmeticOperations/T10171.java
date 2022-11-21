@@ -1,4 +1,4 @@
-package codingtest;
+package codingtest.IOandArithmeticOperations;
 
 public class T10171 { //고양이
     public static void main(String[] args) {

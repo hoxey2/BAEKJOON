@@ -1,4 +1,4 @@
-package codingtest;
+package codingtest.IOandArithmeticOperations;
 
 import java.util.Scanner;
 
